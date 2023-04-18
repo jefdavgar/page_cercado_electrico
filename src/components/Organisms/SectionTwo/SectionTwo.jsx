@@ -8,7 +8,7 @@ const SectionTwo = () => {
   return (
     <section className="section_two">
         <Row className="justify-content-end" style={{ margin:"40px 0px"}}>
-          <Col lg={4} xs={12} className="about-section" style={{height: "42vw"}}>
+          <Col lg={4} xs={12} className="about-section">
             <Row className="justify-content-end">
               <Col lg={12}>
                 <h1>Nosotros</h1>
