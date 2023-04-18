@@ -1,0 +1,43 @@
+.imagen {
+    /* position: absolute; */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5555), rgba(0, 0, 0, 0.5)),
+      url("../../../Assets/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+  .imagen2 {
+    /* position: absolute; */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5555), rgba(0, 0, 0, 0.5)),
+      url("../../../Assets/fondo2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+  .imagen3 {
+    /* position: absolute; */
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5555), rgba(0, 0, 0, 0.5)),
+      url("../../../Assets/fondo3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    z-index: 1;
+  }
+  .section_one{
+    width: 100%;
+    height: 100%;
+  }

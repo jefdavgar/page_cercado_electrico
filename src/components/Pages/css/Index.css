@@ -1,0 +1,11 @@
+
+.carousel-control-prev {
+  display: none;
+}
+.carousel-control-next {
+  display: none;
+}
+p{
+  margin: 0px;
+  padding: 0px;
+}

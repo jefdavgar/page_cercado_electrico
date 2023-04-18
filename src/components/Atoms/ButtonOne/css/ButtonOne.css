@@ -1,0 +1,22 @@
+.button-one {
+  display: flex;
+  align-items: center;
+  background-color: #66b830;
+  color: #ffff;
+  border-radius: 20px;
+  border: none;
+  padding: 7px;
+}
+.button-one:active {
+  background-color: grey;
+}
+
+.image {
+  float: left;
+  max-width: 50%;
+  margin-right: 10px;
+}
+
+.text {
+  text-align: center;
+}

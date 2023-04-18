@@ -1,0 +1,16 @@
+.section_two{
+  max-width: 100%;
+  background-color: #fdfdfdfd;
+}
+.about-section {
+    background: #ffffff;
+    box-shadow: -8px 9px 26px 13px rgba(0, 0, 0, 0.0870848);
+  }
+  .preview-img{
+    padding: 10px;
+    background: white;
+  }
+  .preview-img img{
+   max-width: 80%;
+   max-height: 80%;
+  }

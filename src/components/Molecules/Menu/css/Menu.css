@@ -1,0 +1,24 @@
+.logo {
+  width: 100px;
+}
+.offcanvas.show {
+  transform: translateX(0);
+  transition: transform 0.2s ease-in-out;
+  background-color: #e2a63e;
+  color: white;
+  text-align: center;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+}
+.nav_desktop {
+    text-decoration: none;
+}
+.active_responsive {
+  text-decoration: line-through;
+  text-decoration-color: #f63a49;
+}
+@media (max-width: 992px) {
+  .nav_desktop {
+    display: none;
+  }
+}

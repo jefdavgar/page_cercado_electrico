@@ -1,0 +1,32 @@
+.form-container {
+    /* margin-top: 100px; */
+    width: 60vh;
+    padding: 20px;
+    opacity: 0.85;
+    /* margin-left: 50px; */
+    mix-blend-mode: normal;
+    border-radius: 10px;
+}
+
+.list {
+  position: absolute;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  /* margin-top: 2rem; */
+  gap: 10px;
+  z-index: 2;
+  margin-top: 6rem;
+}
+.title{
+  margin-top: 6rem;
+}
+.title h1{
+    font-size: 71px;
+    color: LEMONCHIFFON;
+}
+.title h2{
+  color: LEMONCHIFFON;
+  opacity: 0.91;
+}
+@media (max-width: 426px) {
+}
